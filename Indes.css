@@ -1,3 +1,15 @@
 body {
     background-color: #3fa9ff ;
 }
+
+.navbar {
+    background-color: #b30000;
+    height: 100px;
+    width: 100%;
+}
+
+.footer {
+    background-color: #b30000;
+    height: 200px;
+    width: 100%;
+}
